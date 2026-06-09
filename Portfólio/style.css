@@ -1,0 +1,76 @@
+h1 {
+    text-align: center;
+    margin-top: 20px;
+    font-family: times new roman, serif;
+    font-size: 50px;
+    border-color: white;
+    border-width: 5px;
+}
+h2 {
+    margin-left: 700px;
+    font-family: times new roman, serif;
+    font-size: 30px;
+}
+#h2B {
+    margin-left: 630px;
+    font-family: times new roman, serif;
+    font-size: 30px;
+}
+#h2C {
+    margin-left: 800px;
+    font-family: times new roman, serif;
+    font-size: 30px;
+}
+#h3A {
+    margin-left: 750px;
+    font-family: times new roman, serif;
+    font-size: 25px;
+}
+#h3B {
+    margin-left: 800px;
+    font-family: times new roman, serif;
+    font-size: 25px;
+}
+#h3C {
+    margin-left: 850px;
+    font-family: times new roman, serif;
+    font-size: 25px;
+}
+#h3D {
+    margin-left: 900px;
+    font-family: times new roman, serif;
+    font-size: 25px;
+}
+#button1 {
+    position: absolute;
+    width: 100px;
+    height: 40px;
+    bottom: 300px;
+    left: 1000px;
+    color: black;
+    background-color: rgb(228, 209, 209);
+}
+#select1 {
+    position: absolute;
+    width: 100px;
+    height: 40px;
+    bottom: 300px;
+    left: 1000px;
+    color: white;
+    background-color: black
+}
+#img1 {
+    position: absolute;
+    width: 400px;
+    bottom: 240px;
+    left: 200px;
+}
+#img2 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+body {
+    margin: 0;
+    border-top: 110px solid black;
+}
